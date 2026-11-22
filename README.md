@@ -6,4 +6,6 @@ Trailhead Test Repository
 
 Test the edition of a file in the Local Repository.
 
-New line added.
+Change the text of the file.
+
+
